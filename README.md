@@ -4,7 +4,7 @@
 
 Пример приложения [Gin](https://gin-gonic.com/), которое можно развернуть в **Timeweb Cloud Apps** без настройки.
 
-:tada: [Демо](https://timeweb-cloud-app-example-gin-5382.twc1.net)
+:tada: [Демо](https://twc-app-example-gin.twc1.net/)
 
 :rocket: [Создать свой Apps](https://timeweb.cloud/my/apps/create)
 
